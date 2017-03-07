@@ -2,6 +2,7 @@ body {
 	margin: 40px auto;
 	max-width: 650px;
 	line-height: 1.6;
+	font-family: 'Lato', sans-serif;
 	font-size: 18px;
 	color: #444;
 	padding: 0 10px;
@@ -11,6 +12,7 @@ h1,
 h2,
 h3 {
 	line-height: 1.2;
+	font-family: 'Open Sans'
 }
 
 #name {
@@ -33,7 +35,6 @@ a {
 
 a:hover {
 	color: #b380ff;
-	border-bottom: 1px dashed #b380ff;
 }
 
 .portfolio {
