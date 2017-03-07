@@ -17,6 +17,15 @@ h3 {
 	text-align: center;
 }
 
+#profile {
+	text-align: center;
+	border-radius: 100%;
+}
+
+#profilediv {
+	text-align: center;
+}
+
 a {
 	color: #80bfff;
 	text-decoration: none;
