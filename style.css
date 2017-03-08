@@ -32,6 +32,10 @@ h3 {
 	text-align: center;
 }
 
+#particles-js {
+	width: 100%;
+}
+
 a {
 	color: #80bfff;
 	text-decoration: none;
