@@ -60,3 +60,9 @@ a:hover {
 	margin: 40px auto;
 	width: 100%;
 }
+
+@media (max-width: 420px) {
+	#particles-js {
+		display: none;
+	}
+}
