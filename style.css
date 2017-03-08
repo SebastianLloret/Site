@@ -29,6 +29,7 @@ h3 {
 	max-width: 650px;
 	position: relative;
 	z-index: 2;
+	background-color: #444;
 }
 
 #profilediv {
