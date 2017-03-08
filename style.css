@@ -27,7 +27,8 @@ h3 {
 #content {
 	margin: 40px auto;
 	max-width: 650px;
-	background-color: #FFF;
+	position: relative;
+	z-index: 2;
 }
 
 #profilediv {
@@ -37,9 +38,7 @@ h3 {
 #particles-js {
 	width: 100%;
 	height: 100%;
-	position: fixed;
-	top: 0;
-	left: 0;
+	z-index: 1;
 }
 
 a {
