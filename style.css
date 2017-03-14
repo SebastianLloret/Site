@@ -28,7 +28,7 @@ h3 {
 	margin: 40px auto;
 	max-width: 650px;
 	position: relative;
-	z-index: 2;
+	z-index: 1;
 	background-color: #FFF;
 }
 
