@@ -52,10 +52,9 @@ a:hover {
 	background-color: #FFF;
 }
 
-.center {
+.centerAlign {
 	text-align: center;
 }
-
 
 @media (max-width: 500px) {
 	#particles-js {
