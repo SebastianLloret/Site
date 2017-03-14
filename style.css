@@ -11,12 +11,21 @@ h1,
 h2,
 h3 {
 	line-height: 1.2;
-	font-family: 'Open Sans'
+	font-family: 'Open Sans';
 }
 
 canvas {
 	display: block;
 	vertical-align: bottom;
+}
+
+a {
+	color: #80bfff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #b380ff;
 }
 
 #particles-js {
@@ -43,18 +52,10 @@ canvas {
 	background-color: #FFF;
 }
 
-#profilediv {
+.center {
 	text-align: center;
 }
 
-a {
-	color: #80bfff;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #b380ff;
-}
 
 @media (max-width: 500px) {
 	#particles-js {
