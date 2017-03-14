@@ -35,7 +35,8 @@ canvas {
 }
 
 #content {
-	margin: 40px auto;
+	margin: 0px auto;
+	padding-top: 40px;
 	max-width: 650px;
 	position: relative;
 	z-index: 2;
