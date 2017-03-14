@@ -1,6 +1,5 @@
 body {
 	margin: 40px auto;
-	width: 100%;
 	line-height: 1.6;
 	font-family: 'Lato', sans-serif;
 	font-size: 18px;
@@ -13,6 +12,18 @@ h2,
 h3 {
 	line-height: 1.2;
 	font-family: 'Open Sans'
+}
+
+canvas {
+	display: block;
+	vertical-align: bottom;
+}
+
+#particles-js {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-position: 50% 50%;
 }
 
 #name {
@@ -36,15 +47,6 @@ h3 {
 	text-align: center;
 }
 
-#particles-js {
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	z-index: 1;
-}
-
 a {
 	color: #80bfff;
 	text-decoration: none;
@@ -52,12 +54,6 @@ a {
 
 a:hover {
 	color: #b380ff;
-}
-
-.portfolio {
-	max-width: 75%;
-	margin: 40px auto;
-	width: 100%;
 }
 
 @media (max-width: 500px) {
