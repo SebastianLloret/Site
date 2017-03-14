@@ -28,6 +28,10 @@ a:hover {
 	color: #b380ff;
 }
 
+p {
+	text-align: justify;
+}
+
 #particles-js {
 	position: absolute;
 	width: 100%;
