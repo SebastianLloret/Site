@@ -71,9 +71,7 @@ p {
 			padding-left: 20px;
 			padding-right: 20px;
 	}
-}
 
-@media (max-48em) {
 	#particles-js {
 		display: none;
 	}
