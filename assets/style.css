@@ -66,14 +66,7 @@ p {
     /* Or set the width explicitly: */
 }
 
-@media (min-width: 48em) {
-	.content{
-			padding-left: 20px;
-			padding-right: 20px;
-	}
-}
-
-@media (max-48em) {
+@media (max-width: 48em) {
 	#particles-js {
 		display: none;
 	}
